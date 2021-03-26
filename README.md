@@ -1,4 +1,10 @@
 
+# Zip Away
+
+This Django web application provides location matching by various preferences across the 33,000 zip codes in the United States. Uses an algorithm to find the least squared differences for an input zip code in a target state then provides a list of zip code matches. Results are visualized through an interactive map
+
+<img width="1216" alt="Screen Shot 2021-03-26 at 10 09 52 AM" src="https://user-images.githubusercontent.com/41166358/112666222-f0d18b80-8e29-11eb-9bee-dc622139fb40.png">
+
 
 ### Intructions for running the application
 
